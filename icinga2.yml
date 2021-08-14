@@ -1,0 +1,5 @@
+plugin: community.general.icinga2
+url: 'https://localhost:5665'
+user: ansible
+password: secretpassword
+validate_certs: false
